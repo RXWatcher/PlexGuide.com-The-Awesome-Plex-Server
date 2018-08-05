@@ -51,6 +51,7 @@ SuperTransfer Author Concept Below: [Flicker-Rate](https://github.com/flicker-ra
 ----
 
 [![N|Solid](https://camo.githubusercontent.com/348b82630f4f5be3c775c9caed3bb5765b0b3018/687474703a2f2f692e696d6775722e636f6d2f785370773438322e706e67)](https://plexguide.com/forums/pg-scripting.94/) [![N|Solid](https://camo.githubusercontent.com/653f9f8e115242dddb8f6282d17c8ef550844294/687474703a2f2f692e696d6775722e636f6d2f6d464f304f75582e706e67)](https://plexguide.com/forums/development.14/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRXWatcher1%2FPlexGuide.com-The-Awesome-Plex-Server.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRXWatcher1%2FPlexGuide.com-The-Awesome-Plex-Server?ref=badge_shield)
 
 ### History ###
 
@@ -77,3 +78,7 @@ Below is a Funny, but True Process Made By [Flicker-Rate](https://github.com/fli
 
 ----
 [![N|Solid](https://i.imgur.com/chNkIx6.png)](https://plexguide.com/threads/pg-build-guide-which-programs-do-i-pick.759/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRXWatcher1%2FPlexGuide.com-The-Awesome-Plex-Server.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRXWatcher1%2FPlexGuide.com-The-Awesome-Plex-Server?ref=badge_large)
